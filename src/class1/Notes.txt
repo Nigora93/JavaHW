@@ -1,0 +1,31 @@
+Important notes:
+* to print smth on the console we write a code in a 'sout';
+
+2
+* variables: byte, short, int, long, float, double, char, boolean;
+* Data types to store floating point number/ decimal number:floating- 10.5, 2.3; 99% of the time we use decimal;
+* in CHAR we can store: 'a', 'z', '-', '+', '1'(only one character at a time);
+* boolean stores true or false;
+*Variables rules: 1. first letter lowercase, but the rest upper: amIRight;
+2. cant have the same variables twice;
+3. in Java (caseSensetive) age and AGE is different;
+* String can store multiple characters: "USA", "New York", "Hello World", "2964-72-5=76";
+
+
+class4
+*Scanner is a class that contains all the logic to take the input from the user using the console and the keyboard;
+Scanner class get input from users;
+
+*In scanner=> we use next with String;
+nextInt with int;
+double: nextDouble();
+boolean: nextBoolean();
+char: no direct method/ next().charAt(0);//0 means we are interested in the first letter;
+
+
+class7
+* do while && while && for loops can replace each other;
+
+class8
+Break keyword: is used to terminate the loop prematurely
+Why is it used?

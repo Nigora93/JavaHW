@@ -1,0 +1,22 @@
+package class8;
+
+public class E14NestedLoops {
+    public static void main(String[] args) {
+
+        //nested method
+        for (int j = 1; j <3 ; j++) {
+            for (int i = 1; i <4 ; i++) {
+                System.out.println(j+ " " + i);
+            }
+        }
+
+        //loop method
+//        for (int i = 1; i <4 ; i++) {
+//            System.out.println("1 " + i);
+//        }
+//        for (int i = 1; i <4 ; i++) {
+//            System.out.println("2 " +i);
+//        }
+
+    }
+}
